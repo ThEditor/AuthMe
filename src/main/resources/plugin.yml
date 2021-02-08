@@ -1,0 +1,5 @@
+name: AuthMe
+version: ${project.version}
+main: me.theditor.authme.Main
+authors: [ThEditor]
+description: Authentication plugin for cracked minecraft servers
